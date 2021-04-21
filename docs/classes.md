@@ -8,3 +8,7 @@ ZmM0ODgzZTRmMGU4YzAwMDAwMDA0MTUxNDE1MDUyNTE1NjQ4MzFkMjY1NDg4YjUyNjA0ODhiNTIxODQ4
 ```
 
 There several reasons an string might need to be encoded, such as passing it to a url.
+
+
+
+![ducks all around](img/duck.png)
