@@ -12,3 +12,7 @@ There several reasons an string might need to be encoded, such as passing it to 
 
 
 ![ducks all around](img/duck.png)
+
+
+Sometimes you need  to upload images
+![ulgy pond](img/pond.png)
