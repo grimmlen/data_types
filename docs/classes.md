@@ -15,4 +15,4 @@ There several reasons an string might need to be encoded, such as passing it to 
 
 
 Sometimes you need  to upload images
-![ulgy pond](img/water.png)
+![ulgy pond](img/prayer.png)
